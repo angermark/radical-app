@@ -1,0 +1,11 @@
+<div class="practice-body">
+  <button (click)="goBack($event)">Back</button>
+  <div class="practice-container">
+    <app-kanji
+      (onSubmit)="goToNextKanji($event)"
+      [practiceObject]="currentKanji"
+    >
+    </app-kanji>
+    <div class="streak-container">{{ streak }}</div>
+  </div>
+</div>

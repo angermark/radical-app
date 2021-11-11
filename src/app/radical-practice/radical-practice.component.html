@@ -1,0 +1,10 @@
+<div class="practice-body">
+  <button (click)="goBack($event)">Back</button>
+  <div class="practice-container">
+    <app-radical
+      (onSubmit)="goToNextRadical($event)"
+      [practiceObject]="currentRadical"
+    ></app-radical>
+    <div class="streak-container">{{ streak }}</div>
+  </div>
+</div>

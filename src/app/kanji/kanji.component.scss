@@ -1,0 +1,86 @@
+.question-container {
+  width: 400px;
+  border-radius: 30px;
+
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px,
+    rgba(0, 0, 0, 0.05) 0px 5px 10px;
+  padding: 20px 0px;
+  min-height: 60vh;
+}
+
+.radical-container {
+  min-height: 150px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.option {
+  text-align: center;
+  height: 50px;
+  transition: all ease-in 0.05s;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  border-left: 1px solid rgba(0, 0, 0, 0.15);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.option:hover {
+  box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset,
+    rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+}
+
+.radical-character {
+  font-size: 6rem;
+  font-weight: 900;
+}
+
+.options-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-top: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.option-text {
+  cursor: default;
+}
+
+.wrong {
+  color: red;
+}
+
+.correct {
+  color: green;
+}
+
+.wrong-option {
+  background: red;
+}
+
+.selected-option,
+.selected-option:hover {
+  background-color: steelblue;
+  color: white;
+  box-shadow: unset;
+}
+
+.next-radical {
+  background: gray;
+  opacity: 0.5;
+  color: white;
+  width: 40%;
+  height: 50px;
+  margin: 40px auto;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  border-radius: 5px;
+  cursor: default;
+  text-align: center;
+  line-height: 49px;
+}
+
+.next-radical.abled {
+  background-color: green;
+  opacity: 1;
+}

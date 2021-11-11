@@ -1,0 +1,34 @@
+<div class="question-container">
+  <div class="radical-container">
+    <div
+      class="radical-character"
+      [ngClass]="{
+        wrong: selectedOption && !selectedOption.correct,
+        correct: selectedOption && selectedOption.correct
+      }"
+    >
+      {{ practiceObject.kanjiObj.kanji }}
+    </div>
+  </div>
+  <div class="options-container">
+    <div
+      *ngFor="let option of practiceObject.options"
+      class="option"
+      [ngClass]="{
+        'selected-option': selectedOption && selectedOption.value === option
+      }"
+      (click)="clickOption(option)"
+    >
+      <div class="option-text">
+        {{ capitalize(option) }}
+      </div>
+    </div>
+  </div>
+  <div
+    (click)="selectedOption && goToNext()"
+    class="next-radical"
+    [ngClass]="{ abled: selectedOption }"
+  >
+    Next
+  </div>
+</div>

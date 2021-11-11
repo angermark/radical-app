@@ -1,0 +1,2943 @@
+{
+    "radicals": [
+        {
+            "character": "一",
+            "strokes": 1,
+            "hiragana": "いち",
+            "romanji": "ichi",
+            "meaning": [
+                "one"
+            ],
+            "examples": [
+                "一",
+                "戸",
+                "旦"
+            ]
+        },
+        {
+            "character": "丨",
+            "strokes": 1,
+            "meaning": [
+                "line"
+            ],
+            "examples": [
+                "巾",
+                "引",
+                "中",
+                "甲",
+                "旧"
+            ]
+        },
+        {
+            "character": "丶",
+            "strokes": 1,
+            "hiragana": "てん",
+            "romanji": "ten",
+            "meaning": [
+                "dot"
+            ],
+            "examples": [
+                "刃",
+                "凡",
+                "丸",
+                "丹",
+                "太",
+                "犬",
+                "丼"
+            ]
+        },
+        {
+            "character": "丿",
+            "strokes": 1,
+            "meaning": [
+                "bend"
+            ],
+            "examples": [
+                "丈",
+                "久",
+                "才",
+                "万",
+                "丹",
+                "少"
+            ]
+        },
+        {
+            "character": "乙 (乚)",
+            "strokes": 1,
+            "hiragana": "おつ",
+            "romanji": "otsu",
+            "meaning": [
+                "second",
+                "latter"
+            ],
+            "examples": [
+                "乙",
+                "乞",
+                "乏",
+                "孔",
+                "屯",
+                "札",
+                "礼",
+                "宅",
+                "乱",
+                "枕",
+                "乳"
+            ]
+        },
+        {
+            "character": "亅",
+            "strokes": 1,
+            "meaning": [
+                "hook"
+            ],
+            "examples": [
+                "了",
+                "丁",
+                "才"
+            ]
+        },
+        {
+            "character": "二",
+            "strokes": 2,
+            "hiragana": "に",
+            "romanji": "ni",
+            "meaning": [
+                "two"
+            ],
+            "examples": [
+                "井",
+                "仁",
+                "元",
+                "示"
+            ]
+        },
+        {
+            "character": "亠",
+            "strokes": 2,
+            "meaning": [
+                "lid"
+            ],
+            "position": "⊤",
+            "examples": [
+                "六",
+                "玄",
+                "市",
+                "夜",
+                "京"
+            ]
+        },
+        {
+            "character": "人",
+            "strokes": 2,
+            "hiragana": "ひと",
+            "romanji": "hito",
+            "meaning": [
+                "human",
+                "person"
+            ],
+            "examples": [
+                "人",
+                "欠",
+                "夫",
+                "内",
+                "囚",
+                "丙",
+                "失",
+                "肉",
+                "扶",
+                "快",
+                "決"
+            ]
+        },
+        {
+            "character": "亻",
+            "strokes": 2,
+            "meaning": [
+                "human",
+                "person"
+            ],
+            "position": "◧",
+            "examples": [
+                "仏",
+                "化",
+                "付",
+                "代",
+                "他",
+                "仕",
+                "休",
+                "位",
+                "作",
+                "体",
+                "住",
+                "何",
+                "花",
+                "信"
+            ]
+        },
+        {
+            "character": "𠆢",
+            "strokes": 2,
+            "meaning": [
+                "person (人)",
+                "roof (入)"
+            ],
+            "position": "⊤",
+            "examples": [
+                "介",
+                "今",
+                "合",
+                "全",
+                "会",
+                "谷"
+            ]
+        },
+        {
+            "character": "入",
+            "strokes": 2,
+            "hiragana": "いる",
+            "romanji": "iru",
+            "meaning": [
+                "enter"
+            ],
+            "examples": [
+                "入",
+                "込"
+            ]
+        },
+        {
+            "character": "八",
+            "strokes": 2,
+            "hiragana": "はち",
+            "romanji": "hachi",
+            "meaning": [
+                "eight",
+                "divide"
+            ],
+            "position": "⊤",
+            "examples": [
+                "八",
+                "分",
+                "公",
+                "谷",
+                "沿",
+                "松",
+                "俗",
+                "盆",
+                "翁",
+                "紛容",
+                "益",
+                "粉",
+                "浴",
+                "挙",
+                "訟",
+                "欲",
+                "船",
+                "雰",
+                "裕",
+                "鉛",
+                "溶",
+                "寡",
+                "総",
+                "嬢"
+            ]
+        },
+        {
+            "character": "ハ",
+            "strokes": 2,
+            "meaning": [
+                "animal",
+                "legs"
+            ],
+            "position": "⊥",
+            "examples": [
+                "六",
+                "穴",
+                "呉",
+                "兵",
+                "貝",
+                "洪",
+                "唄",
+                "冥",
+                "浜",
+                "財",
+                "員",
+                "棋",
+                "貿",
+                "貸",
+                "買",
+                "賛",
+                "質",
+                "興"
+            ]
+        },
+        {
+            "character": "儿",
+            "strokes": 2,
+            "meaning": [
+                "human",
+                "legs"
+            ],
+            "position": "⊥",
+            "examples": [
+                "児",
+                "兄",
+                "四",
+                "見"
+            ]
+        },
+        {
+            "character": "丷",
+            "strokes": 2,
+            "meaning": [
+                "grass",
+                "plant",
+                "horns"
+            ],
+            "position": "⊤",
+            "examples": [
+                "平",
+                "半",
+                "羊",
+                "岡",
+                "前",
+                "首",
+                "南"
+            ]
+        },
+        {
+            "character": "冫",
+            "strokes": 2,
+            "meaning": [
+                "ice"
+            ],
+            "position": "◧",
+            "examples": [
+                "次",
+                "冶",
+                "冷"
+            ]
+        },
+        {
+            "character": "凵",
+            "strokes": 2,
+            "meaning": [
+                "container",
+                "open mouth"
+            ],
+            "position": "⊥"
+        },
+        {
+            "character": "匚",
+            "strokes": 2,
+            "meaning": [
+                "box"
+            ],
+            "position": "⿴"
+        },
+        {
+            "character": "冂",
+            "strokes": 2,
+            "meaning": [
+                "upside down box"
+            ],
+            "position": "⿴",
+            "examples": [
+                "円",
+                "冊",
+                "再",
+                "同"
+            ]
+        },
+        {
+            "character": "冖",
+            "strokes": 2,
+            "meaning": [
+                "cover"
+            ],
+            "position": "⊤",
+            "examples": [
+                "売",
+                "学",
+                "骨",
+                "常"
+            ]
+        },
+        {
+            "character": "几",
+            "strokes": 2,
+            "hiragana": "つくえ",
+            "romanji": "tsukue",
+            "meaning": [
+                "desk",
+                "table"
+            ],
+            "position": "◨"
+        },
+        {
+            "character": "九",
+            "strokes": 2,
+            "hiragana": "きゅう",
+            "romanji": "kyū",
+            "meaning": [
+                "nine"
+            ]
+        },
+        {
+            "character": "力",
+            "strokes": 2,
+            "hiragana": "ちから",
+            "romanji": "chikara",
+            "meaning": [
+                "power",
+                "force"
+            ]
+        },
+        {
+            "character": "刀",
+            "strokes": 2,
+            "hiragana": "かたな",
+            "romanji": "katana",
+            "meaning": [
+                "knife",
+                "sword"
+            ]
+        },
+        {
+            "character": "刂",
+            "strokes": 2,
+            "meaning": [
+                "knife",
+                "sword"
+            ],
+            "position": "◨"
+        },
+        {
+            "character": "乃",
+            "strokes": 2,
+            "hiragana": "の",
+            "meaning": [
+                "hook"
+            ],
+            "romanji": "no",
+            "position": "⊥",
+            "examples": [
+                "秀",
+                "透",
+                "携",
+                "誘/及"
+            ]
+        },
+        {
+            "character": "勹",
+            "strokes": 2,
+            "meaning": [
+                "wrap",
+                "embrace"
+            ],
+            "position": "⿴",
+            "examples": [
+                "与",
+                "勾",
+                "匂",
+                "欠",
+                "巧",
+                "句",
+                "包",
+                "号",
+                "写",
+                "旬",
+                "朽",
+                "汚",
+                "考",
+                "均",
+                "泡",
+                "抱",
+                "拘",
+                "易",
+                "的",
+                "物"
+            ]
+        },
+        {
+            "character": "⺈",
+            "strokes": 2,
+            "meaning": [
+                "knife",
+                "sword"
+            ],
+            "position": "⊤",
+            "examples": [
+                "危",
+                "争",
+                "色",
+                "角",
+                "免",
+                "浄",
+                "急",
+                "負",
+                "陥",
+                "逸",
+                "亀",
+                "喚",
+                "換",
+                "象",
+                "像",
+                "静",
+                "衡",
+                "艶"
+            ]
+        },
+        {
+            "character": "マ",
+            "strokes": 2,
+            "hiragana": "ま",
+            "romanji": "ma.",
+            "meaning": [
+                "Katakana マ"
+            ],
+            "position": "⊤",
+            "examples": [
+                "勇",
+                "通",
+                "湧",
+                "痛",
+                "踊",
+                "疑",
+                "凝",
+                "擬/予",
+                "矛"
+            ]
+        },
+        {
+            "character": "匕",
+            "strokes": 2,
+            "hiragana": "さじ",
+            "romanji": "saji",
+            "meaning": [
+                "spoon; (七 = seven)"
+            ],
+            "examples": [
+                "七",
+                "匂",
+                "化",
+                "切",
+                "叱",
+                "北",
+                "旨",
+                "死",
+                "花",
+                "虎",
+                "背"
+            ]
+        },
+        {
+            "character": "十",
+            "strokes": 2,
+            "hiragana": "じゅう",
+            "romanji": "jū",
+            "meaning": [
+                "ten",
+                "complete"
+            ]
+        },
+        {
+            "character": "卜",
+            "strokes": 2,
+            "hiragana": "うらない",
+            "romanji": "uranai",
+            "meaning": [
+                "divination"
+            ],
+            "position": "◨"
+        },
+        {
+            "character": "又",
+            "strokes": 2,
+            "hiragana": "また",
+            "romanji": "mata",
+            "meaning": [
+                "again",
+                "right hand"
+            ]
+        },
+        {
+            "character": "厶",
+            "strokes": 2,
+            "hiragana": "む",
+            "romanji": "mu",
+            "meaning": [
+                "private"
+            ]
+        },
+        {
+            "character": "卩 (㔾)",
+            "strokes": 2,
+            "meaning": [
+                "seal"
+            ],
+            "position": "◨",
+            "examples": [
+                "厄",
+                "犯",
+                "令",
+                "危",
+                "印",
+                "服",
+                "卵",
+                "命",
+                "報"
+            ]
+        },
+        {
+            "character": "厂",
+            "strokes": 2,
+            "meaning": [
+                "cliff"
+            ],
+            "position": "⿸"
+        },
+        {
+            "character": "广",
+            "strokes": 3,
+            "meaning": [
+                "on a cliff"
+            ],
+            "position": "⿸",
+            "examples": [
+                "序",
+                "店",
+                "府"
+            ]
+        },
+        {
+            "character": "口",
+            "strokes": 3,
+            "hiragana": "くち",
+            "romanji": "kuchi",
+            "meaning": [
+                "mouth",
+                "opening"
+            ],
+            "examples": [
+                "口",
+                "古",
+                "可",
+                "名",
+                "君",
+                "否",
+                "呉",
+                "告",
+                "周",
+                "味",
+                "命",
+                "和",
+                "哲",
+                "唐",
+                "善",
+                "器"
+            ]
+        },
+        {
+            "character": "囗",
+            "strokes": 3,
+            "meaning": [
+                "enclosure"
+            ],
+            "position": "⿴",
+            "examples": [
+                "四",
+                "回"
+            ]
+        },
+        {
+            "character": "土",
+            "strokes": 3,
+            "hiragana": "つち",
+            "romanji": "tsuchi",
+            "meaning": [
+                "earth"
+            ],
+            "examples": [
+                "土",
+                "地"
+            ]
+        },
+        {
+            "character": "士",
+            "strokes": 3,
+            "hiragana": "さむらい",
+            "romanji": "samurai",
+            "meaning": [
+                "scholar",
+                "bachelor"
+            ],
+            "examples": [
+                "士"
+            ]
+        },
+        {
+            "character": "夂",
+            "strokes": 3,
+            "meaning": [
+                "go"
+            ],
+            "position": "⊥",
+            "examples": [
+                "夏"
+            ]
+        },
+        {
+            "character": "夕",
+            "strokes": 3,
+            "hiragana": "ゆうべ",
+            "romanji": "yūbe",
+            "meaning": [
+                "evening",
+                "sunset"
+            ],
+            "examples": [
+                "夕",
+                "外",
+                "多",
+                "夜"
+            ]
+        },
+        {
+            "character": "尢",
+            "strokes": 3,
+            "meaning": [
+                "lame"
+            ],
+            "examples": [
+                "沈",
+                "枕",
+                "就",
+                "蹴/尤",
+                "无"
+            ]
+        },
+        {
+            "character": "大",
+            "strokes": 3,
+            "hiragana": "だい",
+            "romanji": "dai",
+            "meaning": [
+                "big",
+                "very"
+            ],
+            "examples": [
+                "大",
+                "天"
+            ]
+        },
+        {
+            "character": "女",
+            "strokes": 3,
+            "hiragana": "おんな",
+            "romanji": "onna",
+            "meaning": [
+                "woman",
+                "female"
+            ],
+            "examples": [
+                "女"
+            ]
+        },
+        {
+            "character": "子",
+            "strokes": 3,
+            "hiragana": "こ",
+            "romanji": "ko",
+            "meaning": [
+                "child",
+                "seed"
+            ],
+            "examples": [
+                "子"
+            ]
+        },
+        {
+            "character": "宀",
+            "strokes": 3,
+            "meaning": [
+                "roof"
+            ],
+            "examples": [
+                "家"
+            ]
+        },
+        {
+            "character": "寸",
+            "strokes": 3,
+            "hiragana": "すん",
+            "romanji": "sun",
+            "meaning": [
+                "thumb",
+                "sundial degree"
+            ],
+            "examples": [
+                "時"
+            ]
+        },
+        {
+            "character": "小",
+            "strokes": 3,
+            "hiragana": "ちいさい",
+            "romanji": "chīsai",
+            "meaning": [
+                "small",
+                "insignificant"
+            ],
+            "examples": [
+                "小",
+                "少"
+            ]
+        },
+        {
+            "character": "⺌ (⺍)",
+            "strokes": 3,
+            "meaning": [
+                "small",
+                "insignificant"
+            ],
+            "examples": [
+                "当",
+                "光",
+                "鎖",
+                "巣",
+                "桜",
+                "獣",
+                "単",
+                "脳",
+                "悩",
+                "厳"
+            ]
+        },
+        {
+            "character": "幺",
+            "strokes": 3,
+            "meaning": [
+                "short",
+                "thread"
+            ],
+            "examples": [
+                "幻",
+                "幼"
+            ]
+        },
+        {
+            "character": "尸",
+            "strokes": 3,
+            "meaning": [
+                "corpse"
+            ],
+            "examples": [
+                "尺",
+                "局"
+            ]
+        },
+        {
+            "character": "山",
+            "strokes": 3,
+            "hiragana": "やま",
+            "romanji": "yama",
+            "meaning": [
+                "mountain"
+            ],
+            "examples": [
+                "山",
+                "岡",
+                "岩",
+                "島"
+            ]
+        },
+        {
+            "character": "川",
+            "strokes": 3,
+            "hiragana": "かわ",
+            "romanji": "kawa",
+            "meaning": [
+                "river"
+            ],
+            "examples": [
+                "川",
+                "州",
+                "巡"
+            ]
+        },
+        {
+            "character": "工",
+            "strokes": 3,
+            "hiragana": "たくみ",
+            "romanji": "takumi",
+            "meaning": [
+                "work"
+            ],
+            "examples": [
+                "工",
+                "左",
+                "差"
+            ]
+        },
+        {
+            "character": "已",
+            "strokes": 3,
+            "hiragana": "おのれ",
+            "romanji": "onore",
+            "meaning": [
+                "oneself"
+            ],
+            "examples": [
+                "(己 巳)"
+            ]
+        },
+        {
+            "character": "亡",
+            "strokes": 3,
+            "hiragana": "な・くす",
+            "romanji": "nakusu",
+            "meaning": [
+                "dead",
+                "gone"
+            ],
+            "examples": [
+                "亡",
+                "妄",
+                "忙",
+                "忘",
+                "盲",
+                "荒",
+                "望",
+                "慌",
+                "網"
+            ]
+        },
+        {
+            "character": "巾",
+            "strokes": 3,
+            "hiragana": "はば",
+            "romanji": "haba",
+            "meaning": [
+                "turban",
+                "scarf"
+            ],
+            "examples": [
+                "市",
+                "布",
+                "帝",
+                "常"
+            ]
+        },
+        {
+            "character": "干",
+            "strokes": 3,
+            "hiragana": "ほし",
+            "romanji": "hoshi",
+            "meaning": [
+                "dry"
+            ],
+            "examples": [
+                "平",
+                "年"
+            ]
+        },
+        {
+            "character": "廾",
+            "strokes": 3,
+            "meaning": [
+                "two hands",
+                "twenty"
+            ],
+            "examples": [
+                "弁"
+            ]
+        },
+        {
+            "character": "廴",
+            "strokes": 3,
+            "meaning": [
+                "long stride"
+            ],
+            "position": "⿺",
+            "examples": [
+                "延"
+            ]
+        },
+        {
+            "character": "⻌ (辶)",
+            "strokes": 3,
+            "meaning": [
+                "walk"
+            ],
+            "position": "⿺",
+            "examples": [
+                "巡",
+                "迎",
+                "通",
+                "追",
+                "逃",
+                "迎",
+                "進"
+            ]
+        },
+        {
+            "character": "也",
+            "meaning": [
+                "second"
+            ],
+            "strokes": 3,
+            "position": "◨",
+            "examples": [
+                "地",
+                "池",
+                "他",
+                "施"
+            ]
+        },
+        {
+            "character": "弋",
+            "strokes": 3,
+            "meaning": [
+                "ceremony",
+                "shoot",
+                "arrow"
+            ],
+            "examples": [
+                "式"
+            ]
+        },
+        {
+            "character": "弓",
+            "strokes": 3,
+            "hiragana": "ゆみ",
+            "romanji": "yumi",
+            "meaning": [
+                "bow"
+            ],
+            "examples": [
+                "弓",
+                "引"
+            ]
+        },
+        {
+            "character": "彐",
+            "strokes": 3,
+            "meaning": [
+                "pig",
+                "snout"
+            ]
+        },
+        {
+            "character": "彡",
+            "strokes": 3,
+            "meaning": [
+                "hair",
+                "bristle",
+                "stubble",
+                "beard"
+            ],
+            "examples": [
+                "杉",
+                "形",
+                "参",
+                "珍",
+                "修",
+                "彫",
+                "惨",
+                "彩",
+                "診",
+                "須",
+                "髪",
+                "彰",
+                "影",
+                "膨",
+                "顔",
+                "鬱"
+            ]
+        },
+        {
+            "character": "彳",
+            "strokes": 3,
+            "meaning": [
+                "step"
+            ],
+            "position": "◧",
+            "examples": [
+                "役",
+                "彼",
+                "後",
+                "得",
+                "徳"
+            ]
+        },
+        {
+            "character": "氵",
+            "strokes": 3,
+            "meaning": [
+                "water"
+            ],
+            "position": "◧",
+            "examples": [
+                "泳",
+                "決",
+                "治",
+                "海",
+                "演",
+                "漢",
+                "瀬"
+            ]
+        },
+        {
+            "character": "丬 (爿)",
+            "strokes": 3,
+            "meaning": [
+                "split wood"
+            ],
+            "position": "◧",
+            "examples": [
+                "北",
+                "壮",
+                "状",
+                "荘",
+                "背",
+                "将",
+                "装",
+                "寝",
+                "奨"
+            ]
+        },
+        {
+            "character": "犭",
+            "strokes": 3,
+            "meaning": [
+                "dog"
+            ],
+            "position": "◧",
+            "examples": [
+                "犯",
+                "狂",
+                "狙"
+            ]
+        },
+        {
+            "character": "扌",
+            "strokes": 3,
+            "meaning": [
+                "hand"
+            ],
+            "position": "◧",
+            "examples": [
+                "持",
+                "掛",
+                "打",
+                "批",
+                "技",
+                "抱",
+                "押"
+            ]
+        },
+        {
+            "character": "艹",
+            "strokes": 3,
+            "meaning": [
+                "grass",
+                "vegetation"
+            ],
+            "position": "⊤",
+            "examples": [
+                "共",
+                "花",
+                "英",
+                "苦",
+                "草",
+                "茶",
+                "落",
+                "幕",
+                "靴",
+                "薬"
+            ]
+        },
+        {
+            "character": "⻖←",
+            "strokes": 3,
+            "meaning": [
+                "mound (阝left)"
+            ],
+            "position": "◧",
+            "examples": [
+                "阪",
+                "防",
+                "阻",
+                "院",
+                "陳"
+            ]
+        },
+        {
+            "character": "→⻏",
+            "strokes": 3,
+            "meaning": [
+                "town(] 阝right)"
+            ],
+            "position": "◨",
+            "examples": [
+                "那",
+                "邦",
+                "郎",
+                "部",
+                "郭",
+                "都"
+            ]
+        },
+        {
+            "character": "忄",
+            "strokes": 3,
+            "meaning": [
+                "heart"
+            ],
+            "position": "◧",
+            "examples": [
+                "忙",
+                "快",
+                "怪",
+                "怖",
+                "性",
+                "恒",
+                "恨",
+                "悔",
+                "悟",
+                "悩",
+                "悦",
+                "惨",
+                "悼",
+                "惧",
+                "惜",
+                "情",
+                "愉",
+                "惰",
+                "慌",
+                "慄",
+                "慨",
+                "慎",
+                "憎",
+                "慢",
+                "慣"
+            ]
+        },
+        {
+            "character": "心",
+            "strokes": 4,
+            "hiragana": "こころ",
+            "romanji": "kokoro",
+            "meaning": [
+                "heart"
+            ],
+            "position": "⊥",
+            "examples": [
+                "心",
+                "必",
+                "芯",
+                "忍",
+                "忌",
+                "忘",
+                "志",
+                "応",
+                "泌",
+                "忠",
+                "念",
+                "怒",
+                "怠",
+                "怨",
+                "急",
+                "思",
+                "恭",
+                "恥",
+                "恐",
+                "恋",
+                "恵",
+                "恣",
+                "秘",
+                "恩",
+                "息"
+            ]
+        },
+        {
+            "character": "戈",
+            "strokes": 4,
+            "meaning": [
+                "spear",
+                "halberd"
+            ],
+            "examples": [
+                "成",
+                "式",
+                "弐",
+                "戦"
+            ]
+        },
+        {
+            "character": "戸",
+            "strokes": 4,
+            "hiragana": "と",
+            "romanji": "to",
+            "meaning": [
+                "door",
+                "house"
+            ],
+            "examples": [
+                "戸",
+                "戻",
+                "所"
+            ]
+        },
+        {
+            "character": "手",
+            "strokes": 4,
+            "hiragana": "て",
+            "romanji": "te",
+            "meaning": [
+                "hand"
+            ],
+            "examples": [
+                "手",
+                "挙"
+            ]
+        },
+        {
+            "character": "攵",
+            "strokes": 4,
+            "hiragana": "のぶん",
+            "romanji": "nobunn",
+            "meaning": [
+                "action",
+                "whip"
+            ]
+        },
+        {
+            "character": "文",
+            "strokes": 4,
+            "hiragana": "ぶん",
+            "romanji": "bunn",
+            "meaning": [
+                "script",
+                "literature"
+            ],
+            "examples": [
+                "文"
+            ]
+        },
+        {
+            "character": "斗",
+            "strokes": 4,
+            "meaning": [
+                "dipper",
+                "measuring scoop"
+            ],
+            "examples": [
+                "料"
+            ]
+        },
+        {
+            "character": "斤",
+            "strokes": 4,
+            "hiragana": "きん",
+            "romanji": "kinn",
+            "meaning": [
+                "axe"
+            ],
+            "examples": [
+                "新"
+            ]
+        },
+        {
+            "character": "方",
+            "strokes": 4,
+            "hiragana": "ほう",
+            "romanji": "hō",
+            "meaning": [
+                "way",
+                "square",
+                "raft"
+            ],
+            "examples": [
+                "方",
+                "放",
+                "旅",
+                "族"
+            ]
+        },
+        {
+            "character": "日",
+            "strokes": 4,
+            "hiragana": "にち",
+            "romanji": "nichi",
+            "meaning": [
+                "sun",
+                "day"
+            ],
+            "examples": [
+                "日",
+                "白",
+                "百",
+                "明",
+                "的",
+                "映",
+                "時",
+                "晩"
+            ]
+        },
+        {
+            "character": "月",
+            "strokes": 4,
+            "hiragana": "つき",
+            "romanji": "tsuki",
+            "meaning": [
+                "moon",
+                "month",
+                "body",
+                "flesh"
+            ],
+            "examples": [
+                "有",
+                "服",
+                "青",
+                "朝"
+            ]
+        },
+        {
+            "character": "木",
+            "strokes": 4,
+            "hiragana": "き",
+            "romanji": "ki",
+            "meaning": [
+                "tree"
+            ],
+            "examples": [
+                "木",
+                "板",
+                "相",
+                "根",
+                "森",
+                "楽",
+                "機",
+                "末",
+                "本",
+                "杉",
+                "林"
+            ]
+        },
+        {
+            "character": "欠",
+            "strokes": 4,
+            "hiragana": "けつ",
+            "romanji": "ketsu",
+            "meaning": [
+                "yawn",
+                "lack"
+            ],
+            "examples": [
+                "歌",
+                "欧"
+            ]
+        },
+        {
+            "character": "止",
+            "strokes": 4,
+            "hiragana": "とめる",
+            "romanji": "tomeru",
+            "meaning": [
+                "stop"
+            ],
+            "examples": [
+                "止",
+                "正",
+                "歩"
+            ]
+        },
+        {
+            "character": "歹",
+            "strokes": 4,
+            "meaning": [
+                "death",
+                "decay"
+            ],
+            "examples": [
+                "死",
+                "列"
+            ]
+        },
+        {
+            "character": "殳",
+            "strokes": 4,
+            "hiragana": "るまた",
+            "romanji": "rumata",
+            "meaning": [
+                "weapon",
+                "lance"
+            ],
+            "examples": [
+                "役",
+                "投",
+                "殴"
+            ]
+        },
+        {
+            "character": "毋",
+            "strokes": 4,
+            "meaning": [
+                "do not"
+            ],
+            "examples": [
+                "毎",
+                "梅"
+            ]
+        },
+        {
+            "character": "比",
+            "strokes": 4,
+            "hiragana": "くらべる",
+            "romanji": "kuraberu",
+            "meaning": [
+                "compare",
+                "compete"
+            ],
+            "examples": [
+                "皆",
+                "昆"
+            ]
+        },
+        {
+            "character": "毛",
+            "strokes": 4,
+            "hiragana": "け",
+            "romanji": "ke",
+            "meaning": [
+                "fur",
+                "hair"
+            ],
+            "examples": [
+                "毛"
+            ]
+        },
+        {
+            "character": "氏",
+            "strokes": 4,
+            "hiragana": "うじ",
+            "romanji": "uji",
+            "meaning": [
+                "clan"
+            ],
+            "examples": [
+                "氏",
+                "民",
+                "紙"
+            ]
+        },
+        {
+            "character": "气",
+            "strokes": 4,
+            "meaning": [
+                "steam",
+                "breath"
+            ],
+            "examples": [
+                "汽",
+                "気"
+            ]
+        },
+        {
+            "character": "水",
+            "strokes": 4,
+            "hiragana": "みず",
+            "romanji": "mizu",
+            "meaning": [
+                "water"
+            ],
+            "examples": [
+                "水",
+                "永"
+            ]
+        },
+        {
+            "character": "火",
+            "strokes": 4,
+            "hiragana": "ひ",
+            "romanji": "hi",
+            "meaning": [
+                "fire"
+            ],
+            "examples": [
+                "火",
+                "灯"
+            ]
+        },
+        {
+            "character": "灬",
+            "strokes": 4,
+            "meaning": [
+                "fire"
+            ],
+            "examples": [
+                "焦",
+                "然",
+                "煮"
+            ]
+        },
+        {
+            "character": "⺤ (爪)",
+            "strokes": 4,
+            "hiragana": "つめ",
+            "romanji": "tsume",
+            "meaning": [
+                "claw",
+                "nail",
+                "talon"
+            ],
+            "examples": [
+                "爪",
+                "妥",
+                "采",
+                "乳",
+                "受",
+                "浮",
+                "将",
+                "渓",
+                "淫",
+                "彩",
+                "授",
+                "採",
+                "菜",
+                "援",
+                "揺",
+                "媛",
+                "奨",
+                "暖",
+                "愛",
+                "稲",
+                "緩",
+                "謡",
+                "穏",
+                "曖",
+                "爵"
+            ]
+        },
+        {
+            "character": "父",
+            "strokes": 4,
+            "hiragana": "ちち",
+            "romanji": "chichi",
+            "meaning": [
+                "father"
+            ],
+            "examples": [
+                "釜"
+            ]
+        },
+        {
+            "character": "牛",
+            "strokes": 4,
+            "hiragana": "うし",
+            "romanji": "ushi",
+            "meaning": [
+                "cow"
+            ],
+            "examples": [
+                "牛",
+                "告",
+                "牧",
+                "物",
+                "特",
+                "解"
+            ]
+        },
+        {
+            "character": "犬",
+            "strokes": 4,
+            "hiragana": "いぬ",
+            "romanji": "inu",
+            "meaning": [
+                "dog"
+            ],
+            "examples": [
+                "犬",
+                "献",
+                "獣"
+            ]
+        },
+        {
+            "character": "王",
+            "strokes": 4,
+            "hiragana": "おう",
+            "romanji": "ō",
+            "meaning": [
+                "king"
+            ],
+            "examples": [
+                "王",
+                "玉",
+                "主",
+                "国",
+                "弄",
+                "皇",
+                "理",
+                "差",
+                "聖"
+            ]
+        },
+        {
+            "character": "礻",
+            "strokes": 4,
+            "meaning": [
+                "altar",
+                "display"
+            ],
+            "examples": [
+                "礼",
+                "社",
+                "神",
+                "視",
+                "福"
+            ]
+        },
+        {
+            "character": "耂",
+            "strokes": 4,
+            "meaning": [
+                "old"
+            ],
+            "examples": [
+                "孝"
+            ]
+        },
+        {
+            "character": "勿",
+            "strokes": 4,
+            "meaning": [
+                "do not"
+            ]
+        },
+        {
+            "character": "五",
+            "strokes": 4,
+            "hiragana": "ご",
+            "romanji": "go",
+            "meaning": [
+                "five"
+            ],
+            "examples": [
+                "五"
+            ]
+        },
+        {
+            "character": "巴",
+            "strokes": 4,
+            "meaning": [
+                "cylinder with a trailing tail"
+            ],
+            "examples": [
+                "色",
+                "把",
+                "肥"
+            ]
+        },
+        {
+            "character": "元",
+            "strokes": 4,
+            "hiragana": "もと",
+            "romanji": "moto",
+            "meaning": [
+                "base",
+                "origin"
+            ]
+        },
+        {
+            "character": "井",
+            "strokes": 4,
+            "hiragana": "せい",
+            "romanji": "sei",
+            "meaning": [
+                "well"
+            ]
+        },
+        {
+            "character": "予",
+            "strokes": 4,
+            "hiragana": "よ",
+            "romanji": "yo",
+            "meaning": [
+                "beforehand",
+                "previously"
+            ],
+            "examples": [
+                "予",
+                "序",
+                "野",
+                "預/矛"
+            ]
+        },
+        {
+            "character": "屯",
+            "strokes": 4,
+            "hiragana": "トン",
+            "romanji": "ton",
+            "meaning": [
+                "grass"
+            ],
+            "examples": [
+                "屯",
+                "純",
+                "鈍",
+                "頓"
+            ]
+        },
+        {
+            "character": "甘",
+            "strokes": 5,
+            "hiragana": "あまい",
+            "romanji": "amai",
+            "meaning": [
+                "sweet"
+            ],
+            "examples": [
+                "甘",
+                "甚",
+                "某",
+                "勘",
+                "紺",
+                "基",
+                "欺",
+                "堪",
+                "棋",
+                "媒",
+                "期",
+                "旗",
+                "謀"
+            ]
+        },
+        {
+            "character": "生",
+            "strokes": 5,
+            "hiragana": "うまれる",
+            "romanji": "umareru",
+            "meaning": [
+                "life"
+            ],
+            "examples": [
+                "牲",
+                "甥"
+            ]
+        },
+        {
+            "character": "用",
+            "strokes": 5,
+            "hiragana": "よう",
+            "romanji": "yō",
+            "meaning": [
+                "use"
+            ],
+            "examples": [
+                "用"
+            ]
+        },
+        {
+            "character": "田",
+            "strokes": 5,
+            "hiragana": "た",
+            "romanji": "ta",
+            "meaning": [
+                "field"
+            ],
+            "examples": [
+                "田",
+                "町",
+                "思",
+                "留",
+                "略",
+                "番"
+            ]
+        },
+        {
+            "character": "疋",
+            "strokes": 5,
+            "hiragana": "ひき",
+            "romanji": "hiki",
+            "meaning": [
+                "small animal",
+                "bolt of cloth"
+            ],
+            "examples": [
+                "延"
+            ]
+        },
+        {
+            "character": "疒",
+            "strokes": 5,
+            "meaning": [
+                "sickness"
+            ],
+            "position": "⿸",
+            "examples": [
+                "病",
+                "症",
+                "痛",
+                "癖"
+            ]
+        },
+        {
+            "character": "癶",
+            "strokes": 5,
+            "meaning": [
+                "footsteps"
+            ],
+            "examples": [
+                "発",
+                "登"
+            ]
+        },
+        {
+            "character": "白",
+            "strokes": 5,
+            "hiragana": "しろ",
+            "romanji": "shiro",
+            "meaning": [
+                "white"
+            ],
+            "examples": [
+                "的",
+                "皆",
+                "皇"
+            ]
+        },
+        {
+            "character": "皮",
+            "strokes": 5,
+            "hiragana": "けがわ",
+            "romanji": "kegawa",
+            "meaning": [
+                "skin"
+            ],
+            "examples": [
+                "披",
+                "彼",
+                "波"
+            ]
+        },
+        {
+            "character": "皿",
+            "strokes": 5,
+            "hiragana": "さら",
+            "romanji": "sara",
+            "meaning": [
+                "dish"
+            ],
+            "examples": [
+                "皿"
+            ]
+        },
+        {
+            "character": "目",
+            "strokes": 5,
+            "hiragana": "め",
+            "romanji": "me",
+            "meaning": [
+                "eye"
+            ],
+            "examples": [
+                "目",
+                "見",
+                "具",
+                "省",
+                "眠",
+                "眼",
+                "観",
+                "覧"
+            ]
+        },
+        {
+            "character": "矢",
+            "strokes": 5,
+            "hiragana": "や",
+            "romanji": "ya",
+            "meaning": [
+                "arrow"
+            ],
+            "examples": [
+                "医",
+                "族"
+            ]
+        },
+        {
+            "character": "石",
+            "strokes": 5,
+            "hiragana": "いし",
+            "romanji": "ishi",
+            "meaning": [
+                "stone"
+            ],
+            "examples": [
+                "石",
+                "岩",
+                "砂",
+                "破",
+                "碑"
+            ]
+        },
+        {
+            "character": "示",
+            "strokes": 5,
+            "hiragana": "しめす",
+            "romanji": "shimesu",
+            "meaning": [
+                "altar",
+                "display"
+            ],
+            "examples": [
+                "示",
+                "奈",
+                "祭",
+                "禁"
+            ]
+        },
+        {
+            "character": "禾",
+            "strokes": 5,
+            "hiragana": "のぎ",
+            "romanji": "nogi",
+            "meaning": [
+                "grain"
+            ],
+            "examples": [
+                "利",
+                "私",
+                "季",
+                "和",
+                "科",
+                "香"
+            ]
+        },
+        {
+            "character": "穴",
+            "strokes": 5,
+            "hiragana": "あな",
+            "romanji": "ana",
+            "meaning": [
+                "cave"
+            ],
+            "examples": [
+                "空",
+                "突"
+            ]
+        },
+        {
+            "character": "立",
+            "strokes": 5,
+            "hiragana": "たつ",
+            "romanji": "tatsu",
+            "meaning": [
+                "stand",
+                "erect"
+            ],
+            "examples": [
+                "立",
+                "音",
+                "産",
+                "翌",
+                "意",
+                "新",
+                "端",
+                "親",
+                "競"
+            ]
+        },
+        {
+            "character": "母",
+            "strokes": 5,
+            "hiragana": "はは",
+            "romanji": "haha",
+            "meaning": [
+                "mother"
+            ],
+            "examples": [
+                "母"
+            ]
+        },
+        {
+            "character": "衤",
+            "strokes": 5,
+            "meaning": [
+                "clothes"
+            ],
+            "examples": [
+                "初",
+                "被",
+                "複"
+            ]
+        },
+        {
+            "character": "罒",
+            "strokes": 5,
+            "meaning": [
+                "net"
+            ],
+            "examples": [
+                "買",
+                "罪",
+                "置",
+                "羅"
+            ]
+        },
+        {
+            "character": "世",
+            "strokes": 5,
+            "hiragana": "よ",
+            "romanji": "yo",
+            "meaning": [
+                "society",
+                "world",
+                "generation"
+            ]
+        },
+        {
+            "character": "⺻",
+            "strokes": 5,
+            "meaning": [
+                "brush"
+            ],
+            "examples": [
+                "津",
+                "律",
+                "建",
+                "書",
+                "庸",
+                "健",
+                "筆",
+                "鍵"
+            ]
+        },
+        {
+            "character": "冊",
+            "strokes": 5,
+            "hiragana": "さつ",
+            "romanji": "satsu",
+            "meaning": [
+                "(counting) books"
+            ],
+            "examples": [
+                "冊",
+                "柵",
+                "倫",
+                "偏",
+                "遍",
+                "論",
+                "編",
+                "輪"
+            ]
+        },
+        {
+            "character": "而",
+            "strokes": 6,
+            "meaning": [
+                "rake"
+            ],
+            "examples": [
+                "耐",
+                "需",
+                "端",
+                "儒"
+            ]
+        },
+        {
+            "character": "⺮",
+            "strokes": 6,
+            "hiragana": "たけ",
+            "romanji": "take",
+            "meaning": [
+                "bamboo"
+            ],
+            "examples": [
+                "竹",
+                "第",
+                "筆",
+                "竿",
+                "算",
+                "答",
+                "管",
+                "筋",
+                "等",
+                "笑",
+                "箸"
+            ]
+        },
+        {
+            "character": "米",
+            "strokes": 6,
+            "hiragana": "こめ",
+            "romanji": "kome",
+            "meaning": [
+                "rice"
+            ]
+        },
+        {
+            "character": "糸",
+            "strokes": 6,
+            "hiragana": "いと",
+            "romanji": "ito",
+            "meaning": [
+                "silk"
+            ]
+        },
+        {
+            "character": "缶",
+            "strokes": 6,
+            "hiragana": "かん",
+            "romanji": "kann",
+            "meaning": [
+                "tin can"
+            ],
+            "examples": [
+                "缶",
+                "陶",
+                "鬱"
+            ]
+        },
+        {
+            "character": "羊",
+            "strokes": 6,
+            "hiragana": "ひつじ",
+            "romanji": "hitsuji",
+            "meaning": [
+                "sheep"
+            ]
+        },
+        {
+            "character": "羽",
+            "strokes": 6,
+            "hiragana": "はね",
+            "romanji": "hane",
+            "meaning": [
+                "feather",
+                "wing"
+            ]
+        },
+        {
+            "character": "耳",
+            "strokes": 6,
+            "hiragana": "みみ",
+            "romanji": "mimi",
+            "meaning": [
+                "ear"
+            ]
+        },
+        {
+            "character": "自",
+            "strokes": 6,
+            "hiragana": "じ",
+            "romanji": "ji",
+            "meaning": [
+                "self (nose=self)"
+            ]
+        },
+        {
+            "character": "至",
+            "strokes": 6,
+            "hiragana": "いたる",
+            "romanji": "itaru",
+            "meaning": [
+                "arrive"
+            ]
+        },
+        {
+            "character": "舌",
+            "strokes": 6,
+            "hiragana": "した",
+            "romanji": "shita",
+            "meaning": [
+                "tongue"
+            ]
+        },
+        {
+            "character": "舟",
+            "strokes": 6,
+            "hiragana": "ふね",
+            "romanji": "fune",
+            "meaning": [
+                "boat"
+            ]
+        },
+        {
+            "character": "艮 (良)",
+            "strokes": 6,
+            "hiragana": "うしとら",
+            "romanji": "ushitora",
+            "meaning": [
+                "stopping(?)",
+                "(good)"
+            ]
+        },
+        {
+            "character": "虍",
+            "strokes": 6,
+            "meaning": [
+                "tiger stripes"
+            ],
+            "examples": [
+                "虎",
+                "虐",
+                "虚",
+                "虜",
+                "虞",
+                "戯",
+                "膚",
+                "慮",
+                "劇"
+            ]
+        },
+        {
+            "character": "虫",
+            "strokes": 6,
+            "hiragana": "むし",
+            "romanji": "mushi",
+            "meaning": [
+                "insect"
+            ]
+        },
+        {
+            "character": "血",
+            "strokes": 6,
+            "hiragana": "ち",
+            "romanji": "chi",
+            "meaning": [
+                "blood"
+            ]
+        },
+        {
+            "character": "行",
+            "strokes": 6,
+            "hiragana": "ぎょう",
+            "romanji": "gyō",
+            "meaning": [
+                "go",
+                "do"
+            ]
+        },
+        {
+            "character": "衣",
+            "strokes": 6,
+            "hiragana": "ころも",
+            "romanji": "koromo",
+            "meaning": [
+                "clothes"
+            ]
+        },
+        {
+            "character": "覀 (襾)",
+            "strokes": 6,
+            "hiragana": "にし",
+            "romanji": "nishi",
+            "meaning": [
+                "west"
+            ],
+            "examples": [
+                "西",
+                "価",
+                "要",
+                "票",
+                "煙",
+                "腰",
+                "慄",
+                "漂",
+                "遷",
+                "標",
+                "覆",
+                "覇"
+            ]
+        },
+        {
+            "character": "臣",
+            "strokes": 7,
+            "hiragana": "しん",
+            "romanji": "shin",
+            "meaning": [
+                "minister",
+                "official",
+                "slave (building a brick wall)"
+            ]
+        },
+        {
+            "character": "見",
+            "strokes": 7,
+            "hiragana": "みる",
+            "romanji": "miru",
+            "meaning": [
+                "see"
+            ]
+        },
+        {
+            "character": "角",
+            "strokes": 7,
+            "hiragana": "つの",
+            "romanji": "tsuno",
+            "meaning": [
+                "horn"
+            ]
+        },
+        {
+            "character": "言",
+            "strokes": 7,
+            "hiragana": "こと",
+            "romanji": "koto",
+            "meaning": [
+                "speech"
+            ]
+        },
+        {
+            "character": "谷",
+            "strokes": 7,
+            "hiragana": "たに",
+            "romanji": "tani",
+            "meaning": [
+                "valley"
+            ]
+        },
+        {
+            "character": "豆",
+            "strokes": 7,
+            "hiragana": "まめ",
+            "romanji": "mame",
+            "meaning": [
+                "bean"
+            ]
+        },
+        {
+            "character": "豕",
+            "strokes": 7,
+            "hiragana": "いのこ",
+            "romanji": "inoko",
+            "meaning": [
+                "pig"
+            ]
+        },
+        {
+            "character": "貝",
+            "strokes": 7,
+            "hiragana": "かい",
+            "romanji": "kai",
+            "meaning": [
+                "shell"
+            ]
+        },
+        {
+            "character": "足",
+            "strokes": 7,
+            "hiragana": "あし",
+            "romanji": "ashi",
+            "meaning": [
+                "foot"
+            ]
+        },
+        {
+            "character": "身",
+            "strokes": 7,
+            "hiragana": "み",
+            "romanji": "mi",
+            "meaning": [
+                "body"
+            ]
+        },
+        {
+            "character": "車",
+            "strokes": 7,
+            "hiragana": "くるま",
+            "romanji": "kuruma",
+            "meaning": [
+                "cart",
+                "car"
+            ]
+        },
+        {
+            "character": "辛",
+            "strokes": 7,
+            "hiragana": "からい",
+            "romanji": "karai",
+            "meaning": [
+                "spicy",
+                "bitter"
+            ]
+        },
+        {
+            "character": "辰",
+            "strokes": 7,
+            "hiragana": "たつ",
+            "romanji": "tatsu",
+            "meaning": [
+                "dragon",
+                "morning"
+            ]
+        },
+        {
+            "character": "酉",
+            "strokes": 7,
+            "hiragana": "とり",
+            "romanji": "tori",
+            "meaning": [
+                "wine",
+                "alcohol"
+            ]
+        },
+        {
+            "character": "里",
+            "strokes": 7,
+            "hiragana": "さと",
+            "romanji": "sato",
+            "meaning": [
+                "village",
+                "mile"
+            ]
+        },
+        {
+            "character": "赤",
+            "strokes": 7,
+            "hiragana": "あか",
+            "romanji": "aka",
+            "meaning": [
+                "red"
+            ],
+            "examples": [
+                "赤",
+                "赦",
+                "跡",
+                "嚇",
+                "繊"
+            ]
+        },
+        {
+            "character": "走",
+            "strokes": 7,
+            "hiragana": "そう",
+            "romanji": "sō",
+            "meaning": [
+                "race"
+            ],
+            "examples": [
+                "走",
+                "赴",
+                "徒",
+                "起",
+                "越",
+                "超",
+                "趣"
+            ]
+        },
+        {
+            "character": "金",
+            "strokes": 8,
+            "hiragana": "かね",
+            "romanji": "kane",
+            "meaning": [
+                "metal",
+                "gold"
+            ]
+        },
+        {
+            "character": "長",
+            "strokes": 8,
+            "hiragana": "ながい / ちょう",
+            "romanji": "nagai / chyō",
+            "meaning": [
+                "long",
+                "grow",
+                "leader"
+            ]
+        },
+        {
+            "character": "門",
+            "strokes": 8,
+            "hiragana": "もん",
+            "romanji": "mon",
+            "meaning": [
+                "gate"
+            ]
+        },
+        {
+            "character": "隹",
+            "strokes": 8,
+            "hiragana": "ふるとり",
+            "romanji": "furutori",
+            "meaning": [
+                "small bird"
+            ]
+        },
+        {
+            "character": "雨",
+            "strokes": 8,
+            "hiragana": "あめ",
+            "romanji": "ame",
+            "meaning": [
+                "rain"
+            ]
+        },
+        {
+            "character": "青",
+            "strokes": 8,
+            "hiragana": "あお",
+            "romanji": "ao",
+            "meaning": [
+                "blue",
+                "green"
+            ]
+        },
+        {
+            "character": "岡",
+            "strokes": 8,
+            "hiragana": "おか",
+            "romanji": "oka",
+            "meaning": [
+                "hill"
+            ],
+            "examples": [
+                "岡",
+                "剛",
+                "綱",
+                "鋼"
+            ]
+        },
+        {
+            "character": "免",
+            "strokes": 8,
+            "hiragana": "めん",
+            "romanji": "menn",
+            "meaning": [
+                "dismissal"
+            ],
+            "examples": [
+                "免",
+                "勉",
+                "逸",
+                "晩"
+            ]
+        },
+        {
+            "character": "斉",
+            "strokes": 8,
+            "hiragana": "せい",
+            "romanji": "sei",
+            "meaning": [
+                "Chinese Qi kingdom"
+            ],
+            "examples": [
+                "斉",
+                "剤",
+                "斎",
+                "済"
+            ]
+        },
+        {
+            "character": "音",
+            "strokes": 9,
+            "hiragana": "おと",
+            "romanji": "oto",
+            "meaning": [
+                "sound"
+            ]
+        },
+        {
+            "character": "頁",
+            "strokes": 9,
+            "hiragana": "おおがい",
+            "romanji": "ōgai",
+            "meaning": [
+                "big shell"
+            ]
+        },
+        {
+            "character": "食",
+            "strokes": 9,
+            "hiragana": "しょく",
+            "romanji": "shyoku",
+            "meaning": [
+                "eat",
+                "food"
+            ]
+        },
+        {
+            "character": "首",
+            "strokes": 9,
+            "hiragana": "くび",
+            "romanji": "kubi",
+            "meaning": [
+                "neck",
+                "head"
+            ]
+        },
+        {
+            "character": "品",
+            "strokes": 9,
+            "hiragana": "ひん",
+            "romanji": "hin",
+            "meaning": [
+                "item"
+            ]
+        },
+        {
+            "character": "馬",
+            "strokes": 10,
+            "hiragana": "うま",
+            "romanji": "uma",
+            "meaning": [
+                "horse"
+            ]
+        },
+        {
+            "character": "高",
+            "strokes": 10,
+            "hiragana": "たかい",
+            "romanji": "takai",
+            "meaning": [
+                "tall",
+                "high"
+            ]
+        },
+        {
+            "character": "啇",
+            "strokes": 11,
+            "meaning": [
+                "base",
+                "stem"
+            ],
+            "examples": [
+                "嫡",
+                "滴",
+                "摘",
+                "適",
+                "敵"
+            ]
+        },
+        {
+            "character": "無",
+            "strokes": 12,
+            "hiragana": "む",
+            "romanji": "mu",
+            "meaning": [
+                "nothing"
+            ],
+            "examples": [
+                "無",
+                "舞"
+            ]
+        }
+    ],
+    "byFrequency": [
+        "口",
+        "一",
+        "丿",
+        "ノ",
+        "丨",
+        "日",
+        "木",
+        "ハ",
+        "八",
+        "丷",
+        "二",
+        "丶",
+        "土",
+        "十",
+        "田",
+        "艹",
+        "艸",
+        "草",
+        "䒑",
+        "目",
+        "亠",
+        "冂",
+        "大",
+        "小",
+        "⺌",
+        "⺍",
+        "月",
+        "水",
+        "氵",
+        "儿",
+        "勹",
+        "厶",
+        "幺",
+        "冖",
+        "人",
+        "亻",
+        "𠂉",
+        "𠆢",
+        "又",
+        "匕",
+        "王",
+        "金",
+        "手",
+        "扌",
+        "貝",
+        "宀",
+        "厂",
+        "虫",
+        "糸",
+        "女",
+        "亅",
+        "言",
+        "止",
+        "立",
+        "心",
+        "忄",
+        "㣺",
+        "山",
+        "乙",
+        "彐",
+        "ヨ",
+        "⺕",
+        "尸",
+        "廾",
+        "卜",
+        "夂",
+        "戈",
+        "冫",
+        "禾",
+        "隹",
+        "⺮",
+        "竹",
+        "火",
+        "灬",
+        "⻌",
+        "辶",
+        "广",
+        "寸",
+        "米",
+        "攵",
+        "凵",
+        "几",
+        "罒",
+        "刀",
+        "刂",
+        "⺈",
+        "士",
+        "白",
+        "囗",
+        "石",
+        "巾",
+        "車",
+        "⺤",
+        "爪",
+        "匚",
+        "力",
+        "彡",
+        "工",
+        "皿",
+        "夕",
+        "衣",
+        "衤",
+        "足",
+        "弓",
+        "•⻏",
+        "子",
+        "干",
+        "已",
+        "豆",
+        "⻖•",
+        "耳",
+        "門",
+        "方",
+        "馬",
+        "卩",
+        "彳",
+        "斤",
+        "頁",
+        "雨",
+        "比",
+        "羽",
+        "羊",
+        "酉",
+        "虍",
+        "豕",
+        "里",
+        "欠",
+        "マ",
+        "勿",
+        "殳",
+        "牛",
+        "西",
+        "覀",
+        "襾",
+        "氏",
+        "矢",
+        "示",
+        "艮",
+        "甘",
+        "耂",
+        "老",
+        "自",
+        "辛",
+        "疋",
+        "丬",
+        "爿",
+        "示",
+        "礻",
+        "戸",
+        "長",
+        "見",
+        "臣",
+        "犬",
+        "犭",
+        "用",
+        "九",
+        "舟",
+        "予",
+        "矛",
+        "而",
+        "歹",
+        "冊",
+        "弋",
+        "巴",
+        "音",
+        "穴",
+        "⺻",
+        "聿",
+        "書",
+        "食",
+        "至",
+        "入",
+        "缶",
+        "生",
+        "角",
+        "元",
+        "乃",
+        "廴",
+        "尢",
+        "父",
+        "走",
+        "辰",
+        "世",
+        "川",
+        "疒",
+        "亡",
+        "文",
+        "也",
+        "母",
+        "毋",
+        "癶",
+        "高",
+        "行",
+        "舌",
+        "谷",
+        "青",
+        "身",
+        "斗",
+        "品",
+        "五",
+        "免",
+        "屯",
+        "皮",
+        "赤",
+        "井",
+        "毛",
+        "气",
+        "血",
+        "無",
+        "首",
+        "岡",
+        "啇",
+        "斉"
+    ]
+}
